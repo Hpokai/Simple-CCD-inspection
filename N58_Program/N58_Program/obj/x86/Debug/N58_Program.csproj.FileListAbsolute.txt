@@ -1,0 +1,258 @@
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\bin\Debug\N58_Program.exe.config
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\bin\Debug\N58_Program.exe
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\bin\Debug\N58_Program.pdb
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\機台相關\待測試\N58_GSR\N58_Program\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\N58_CCDProgram\N58_Program\N58_Program\bin\Debug\N58_Program.exe.config
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\N58_CCDProgram\N58_Program\N58_Program\bin\Debug\N58_Program.exe
+D:\N58_CCDProgram\N58_Program\N58_Program\bin\Debug\N58_Program.pdb
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\N58_CCDProgram\N58_Program\N58_Program\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\N58_Program\N58_Program\N58_Program\bin\Debug\N58_Program.exe.config
+D:\N58_Program\N58_Program\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\N58_Program\N58_Program\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\N58_Program.exe.config
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58_Program.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0711\N58_Program\obj\x86\Debug\N58_Program.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\N58_Program.exe.config
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58_Program.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\obj\x86\Debug\N58_Program.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0712\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\N58_Program.exe.config
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58_Program.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0716\N58_Program\obj\x86\Debug\N58_Program.csproj.GenerateResource.Cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\N58_Program.exe.config
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.csproj.GenerateResource.Cache
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\N58_Program.exe.config
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\N58_Program.exe
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\N58_Program.pdb
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\N58_Software\N58_Program_0825\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\N58_Software\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\N58_Program_0825\N58_Program\bin\Debug\N58_Program.exe.config
+D:\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\N58_Program_0825\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\N58_Program\N58_Program\bin\Debug\N58_Program.exe.config
+D:\N58_Program\N58_Program\bin\Debug\N58_Program.exe
+D:\N58_Program\N58_Program\bin\Debug\N58_Program.pdb
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\N58_Program\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\N58_Program\N58_Program\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\N58_Program\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\N58_Program\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\N58_Program\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\N58_Program\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\N58_Program\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\N58_Program\N58_Program\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\N58_Program\N58_Program\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\N58_Program\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\N58_Program\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\N58_Program.exe.config
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\N58_Program.exe
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\N58_Program.pdb
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.Dimensioning.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58_Program.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58.Form_DisplayPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58.Form_MainPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58.Form_ToolBlockPage.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\MySplashTestC.frmSplash.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58.Properties.Resources.resources
+D:\Jabil\00__Work\06-GSR N58 CCD 檢測設備\軟體\N58_Program_0901\N58_Program\obj\x86\Debug\N58_Program.csproj.GenerateResource.Cache
